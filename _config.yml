@@ -22,13 +22,13 @@ repository               : "lukahhcm/lukahhcm.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yuchen Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Stay hungry, stay foolish."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yhuanggn@connect.ust.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
