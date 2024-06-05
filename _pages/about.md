@@ -15,3 +15,23 @@ I'm currently a first-year PhD student in Computer Science and Engineering, [Hon
 You can find my CV here: [Yuchen Huang's Curriculum Vitae](../assets/Curriculum_Vitae_20240502.pdf).
 
 Feel free reach out for research, collaborations, or a casual chat.
+
+Education
+======
+**Ph.D. in Computer Science and Engineering.** The Hong Kong University of Science and Technology. Sep. 2023 - present.
+**B.S. in Electronic Science and Technology.** Zhejiang University. Sep. 2019 - July 2023.
+
+Honors & Rewards
+======
+- Hong Kong PhD Fellowship Scheme (UGC, Hong Kong, 2023-26)
+- RedBird PhD Award (HKUST, 2023)
+- Outstanding Graduate (Zhejiang Province, 2023)
+- The First-Class Scholarship (Zhejiang University, 2019-20 & 2020-21 & 2021-22)
+- National Scholarship (Ministry of Education, China, 2019-20 & 2020-21)
+
+Publications
+======
+
+Teaching Experience
+======
+- **Teaching Assistant:** _COMP2011 Programming with C++_. HKUST, spring 2023-24.
