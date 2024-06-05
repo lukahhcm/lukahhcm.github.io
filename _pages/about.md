@@ -14,4 +14,4 @@ I'm currently a first-year PhD student in Computer Science and Engineering, [Hon
 
 You can find my CV here: [Yuchen Huang's Curriculum Vitae](../assets/Curriculum_Vitae_20240502.pdf).
 
-[📧Email](yhuanggn@connect.ust.hk) / [💻Github](https://github.com/lukahhcm)
+Feel free reach out for research, collaborations, or a casual chat.
