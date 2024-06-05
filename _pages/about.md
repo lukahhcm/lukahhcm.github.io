@@ -18,8 +18,8 @@ Feel free reach out for research, collaborations, or a casual chat.
 
 Education
 ======
-**Ph.D. in Computer Science and Engineering.** The Hong Kong University of Science and Technology. Sep. 2023 - present.
-**B.S. in Electronic Science and Technology.** Zhejiang University. Sep. 2019 - July 2023.
+- **Ph.D. in Computer Science and Engineering.** The Hong Kong University of Science and Technology. Sep. 2023 - present.
+- **B.S. in Electronic Science and Technology.** Zhejiang University. Sep. 2019 - July 2023.
 
 Honors & Rewards
 ======
