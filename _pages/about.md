@@ -16,7 +16,7 @@ You can find my CV here: [Yuchen Huang's Curriculum Vitae](../assets/Curriculum_
 
 Education
 ======
-- **Ph.D. in Computer Science and Engineering.** The Hong Kong University of Science and Technology. Sep. 2023 - present.
+- **Ph.D. in Computer Science and Engineering.** HKUST. Sep. 2023 - Present.
 - **B.S. in Electronic Science and Technology.** Zhejiang University. Sep. 2019 - July 2023.
 
 Honors & Rewards
