@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yuchen Huang"
 title_separator          : "-"
-name                     : &name "Yuchen Huang"
+name                     : &name "Yuchen Huang (黄宇晨)"
 description              : &description "personal description"
 url                      : https://lukahhcm.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
