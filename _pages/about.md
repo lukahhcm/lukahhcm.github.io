@@ -21,7 +21,7 @@ My Research interests lie generally in the area of machine learning, with focus 
 - 🎓 **Ph.D. in Computer Science and Engineering.** HKUST. Sep. 2023 - Present.
 - 🎓 **B.S. in Electronic Science and Technology.** Zhejiang University. Sep. 2019 - July 2023.
 
-🎖️ Honors & Rewards
+🎖️ Honors and Rewards
 ======
 - Hong Kong PhD Fellowship Scheme (UGC, Hong Kong, 2023-26)
 - RedBird PhD Award (HKUST, 2023)
@@ -32,7 +32,7 @@ My Research interests lie generally in the area of machine learning, with focus 
 📝 Publications
 ======
 
-📑 Teaching Experience
+📑 Teaching
 ======
 - **Teaching Assistant:** _COMP2011 Programming with C++_. HKUST, spring 2023-24.
 
