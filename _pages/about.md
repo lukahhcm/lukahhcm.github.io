@@ -10,9 +10,7 @@ redirect_from:
 
 I'm currently a first-year Ph.D. student in Computer Science and Engineering, [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). I’m fortunate and honored to be advised by [Prof. Wei Wang](https://home.cse.ust.hk/~weiwa/) and supported by [Hong Kong PhD Fellowship Scheme (HKPFS)](https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/call_letter.html). Before joining HKUST, I got my B.S. degree in Electronic Science and Technology from [Zhejiang University (ZJU)](https://www.zju.edu.cn/) in 2023.
 
-My Research interests lie generally in the area of machine learning, with focus on **LLM security and privacy**. Feel free to contact me for research and collaborations.
-
-You can find my CV here: [Yuchen Huang's Curriculum Vitae](../assets/Curriculum_Vitae_20240502.pdf).
+My Research interests lie generally in the area of machine learning, with focus on **LLM security and privacy**. Feel free to contact me for  collaborations or a casual talk.
 
 🔥 News
 ======
@@ -28,8 +26,8 @@ You can find my CV here: [Yuchen Huang's Curriculum Vitae](../assets/Curriculum_
 - Hong Kong PhD Fellowship Scheme (UGC, Hong Kong, 2023-26)
 - RedBird PhD Award (HKUST, 2023)
 - Outstanding Graduate (Zhejiang Province, 2023)
-- The First-Class Scholarship (Zhejiang University, 2019-20 & 2020-21 & 2021-22)
 - National Scholarship (Ministry of Education, China, 2019-20 & 2020-21)
+- The First-Class Scholarship (Zhejiang University, 2019-20 & 2020-21 & 2021-22)
 
 📝 Publications
 ======
@@ -40,3 +38,4 @@ You can find my CV here: [Yuchen Huang's Curriculum Vitae](../assets/Curriculum_
 
 ✨ Miscellaneous
 ======
+Apart from academic pursuits, I have a passion for travel and photography. I am also an enthusiast of sports, especially basketball, and a dedicated fan of the Golden State Warriors.
