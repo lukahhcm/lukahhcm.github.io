@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a first-year Ph.D. student in Computer Science and Engineering, [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). I’m fortunate and honored to be advised by [Prof. Wei Wang](https://home.cse.ust.hk/~weiwa/) and supported by [Hong Kong PhD Fellowship Scheme (HKPFS)](https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/call_letter.html). Before joining HKUST, I got my B.S. degree in Electronic Science and Technology from [Zhejiang University (ZJU)](https://www.zju.edu.cn/) in 2023.
+I am currently a second-year Ph.D. student in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). I joined the RenAI Lab in 2024, where I have the privilege of being advised by [Prof. Yiren Fung](https://yrf1.github.io/) and am supported by the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/call_letter.html). Prior to HKUST, I received my B.S. degree in Electronic Science and Technology from [Zhejiang University (ZJU)](https://www.zju.edu.cn/) in 2023.
 
-My Research interests lie generally in the area of machine learning, with focus on **LLM security and privacy**. Feel free to contact me for  collaborations or a casual talk.
+My Research interests lie generally in the area of Natural Language Processing, with focus on **Trustworthy LLMs**. Feel free to reach out if you are interested in collaboration or would like to have a casual discussion.
 
 🔥 News
 ======
@@ -35,6 +35,7 @@ My Research interests lie generally in the area of machine learning, with focus 
 📑 Teaching
 ======
 - **Teaching Assistant:** _COMP2011 Programming with C++_. HKUST, spring 2023-24.
+- **Teaching Assistant:** _Introduction to Computer Science_. HKUST, fall 2024-25.
 
 ✨ Miscellaneous
 ======
