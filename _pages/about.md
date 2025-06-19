@@ -14,7 +14,7 @@ My research interests generally lie in the area of **AI/NLP**, focusing on build
 🔥 News
 =======
 
-- 2025.5 🎉🎉 One paper is accepted by ACL 2025!
+- 2025.5 🎉🎉 One co-authored paper is accepted by ACL 2025!
 
 # 📝 Publications
 
