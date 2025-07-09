@@ -7,17 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a second-year Ph.D. student in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supported by the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/call_letter.html). I am honored to be a member of the RenAI Lab since 2024, under the supervision of [Prof. Yiren Fung](https://yrf1.github.io/). Prior to HKUST, I received my B.S. degree in Electronic Science and Technology from [Zhejiang University (ZJU)](https://www.zju.edu.cn/) in 2023.
+Hi! I’m **Yuchen Huang (黄宇晨)**. I am currently a second-year Ph.D. student in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supported by the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/call_letter.html). I am honored to be a member of the RenAI Lab since 2024, under the supervision of [Prof. Yiren Fung](https://yrf1.github.io/). Prior to HKUST, I received my B.S. degree in Electronic Science and Technology from [Zhejiang University (ZJU)](https://www.zju.edu.cn/) in 2023.
 
 My research interests generally lie in the area of **AI/NLP**, focusing on building more **human-centric, trustworthy, and transparent reasoning in LLMs/VLMs**. Feel free to reach out if you are interested in collaboration or would like to have a casual discussion.
 
 🔥 News
 =======
 
-- 2025.5 🎉🎉 One co-authored paper is accepted by ACL 2025!
+- 2025.7 🎉🎉 **CultureCLIP** is accepted by COLM 2025!
+- 2025.5 🎉🎉 **MMBoundary** is accepted by ACL 2025 main conference!
 
 # 📝 Publications
 
+- `COLM 2025` [CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions](https://arxiv.org/abs/2507.06210), **Yuchen Huang**, Zhiyuan Fan, Zhitao He, Sandeep Polisetty, Wenyan Li, Yi R. (May) Fung
 - `ACL 2025` [MMBoundary: Advancing MLLM Knowledge Boundary Awareness through Reasoning Step Confidence Calibration](https://arxiv.org/pdf/2505.23224), Zhitao He, Sandeep Polisetty, Zhiyuan Fan, **Yuchen Huang**, Shujin Wu, Yi R. (May) Fung
 
 📖 Education
