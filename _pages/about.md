@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm **Yuchen Huang (黄宇晨)**. I am currently a second-year Ph.D. student in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supported by the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/call_letter.html). I am honored to be a member of the RenAI Lab since 2024, under the supervision of [Prof. Yiren Fung](https://yrf1.github.io/). Prior to HKUST, I received my B.S. degree in Electronic Science and Technology from [Zhejiang University (ZJU)](https://www.zju.edu.cn/) in 2023.
+Hi! I'm **Yuchen Huang (黄宇晨)**. I am currently a second-year Ph.D. student in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supported by the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/call_letter.html). I am honored to be a member of the RenAI Lab since 2024, under the supervision of [Prof. Yiren Fung](https://mayrfung.github.io/). Prior to HKUST, I received my B.S. degree in Electronic Science and Technology from [Zhejiang University (ZJU)](https://www.zju.edu.cn/) in 2023.
 
 My research interests generally lie in the area of **AI/NLP**, focusing on building more **human-centric, trustworthy, and transparent reasoning in LLMs/VLMs**. Feel free to reach out if you are interested in collaboration or would like to have a casual discussion.
 
