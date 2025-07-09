@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "🧐 About Me"
-excerpt: "🧐 About Me"
+title: "Yuchen Huang"
+excerpt: "Ph.D. student in Computer Science and Engineering at HKUST, focusing on AI/NLP research"
 author_profile: true
 redirect_from: 
   - /about/
