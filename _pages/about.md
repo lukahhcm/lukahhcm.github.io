@@ -15,12 +15,12 @@ My research interests generally lie in the area of **AI/NLP**, focusing on build
 =======
 
 - 2025.7 🎉🎉 **CultureCLIP** is accepted by COLM 2025!
-- 2025.5 🎉🎉 **MMBoundary** is accepted by ACL 2025 main conference!
+- 2025.5 🎉🎉 **MMBoundary** is accepted by ACL 2025 (Main)!
 
 # 📝 Publications
 
 - `COLM 2025` [CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions](https://arxiv.org/abs/2507.06210), **Yuchen Huang**, Zhiyuan Fan, Zhitao He, Sandeep Polisetty, Wenyan Li, Yi R. (May) Fung
-- `ACL 2025` [MMBoundary: Advancing MLLM Knowledge Boundary Awareness through Reasoning Step Confidence Calibration](https://arxiv.org/pdf/2505.23224), Zhitao He, Sandeep Polisetty, Zhiyuan Fan, **Yuchen Huang**, Shujin Wu, Yi R. (May) Fung
+- `ACL 2025 (Main)` [MMBoundary: Advancing MLLM Knowledge Boundary Awareness through Reasoning Step Confidence Calibration](https://arxiv.org/pdf/2505.23224), Zhitao He, Sandeep Polisetty, Zhiyuan Fan, **Yuchen Huang**, Shujin Wu, Yi R. (May) Fung
 
 📖 Education
 ============
