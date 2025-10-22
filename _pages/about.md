@@ -9,12 +9,13 @@ redirect_from:
 ---
 Hi! I'm **Yuchen Huang (黄宇晨)**, a third-year Ph.D. student in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/). I am fortunate to be supported by the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/call_letter.html) and supervised by [Prof. Yiren Fung](https://mayrfung.github.io/). Since September 2025, I have also been a research intern at [Tongyi Lab, Alibaba](https://tongyi.aliyun.com/), collaborating with [Daoyuan Chen](https://yxdyc.github.io/). Prior to my Ph.D., I received my B.S. degree in Electronic Science and Technology from [Zhejiang University (ZJU)](https://www.zju.edu.cn/) in 2023.
 
-My research interests generally lie in the area of **AI/NLP/Agent**, focusing on building more **human-centric, trustworthy, and efficient LLMs/VLMs/Agents**. Feel free to reach out if you are interested in collaboration or would like to have a casual discussion.
+My research interests generally lie in the area of **AI/NLP**, focusing on building more **human-centric, trustworthy, and powerful LLMs/VLMs/Agents**. Feel free to reach out if you are interested in collaboration or would like to have a casual discussion.
 
 <h2 id="news">🔥 News</h2>
 
+- 2025.10 🎉 A survey paper has been accepted by SEA @ NeurIPS 2026!
 - 2025.09 💪 Joined **Tongyi Lab, Alibaba** as a research intern!
-- 2025.08 🎉 **MAC-Tuning** has been accepted by EMNLP 2025!
+- 2025.08 🎉 **MAC-Tuning** has been accepted by EMNLP 2025! See you in Suzhou!
 - 2025.07 🎉 **CultureCLIP** has been accepted by COLM 2025! See you in Montreal!
 - 2025.05 🎉 **MMBoundary** has been accepted by ACL 2025 (Main)!
 - 2024.10 💪 Joined **RenAI Lab**, HKUST!
@@ -23,6 +24,7 @@ My research interests generally lie in the area of **AI/NLP/Agent**, focusing on
 
 <h2 id="publications">📝 Publications</h2>
 
+- `SEA @ NeurIPS 2026` [Scaling Environments for LLM Agents in the Era of Learning from Interaction: A Survey](https://openreview.net/pdf?id=9axZcDTiJm), **Yuchen Huang**, Sijia Li, Minghao Liu, Wei Liu, Zhiyuan Fan, Yi R. (May) Fung
 - `EMNLP 2025` [MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness](https://arxiv.org/abs/2504.21773), Junsheng Huang, Zhitao He, **Yucheng Huang**, Sandeep Polisetty, Qingyun Wang, Yi R. (May) Fung
 - `COLM 2025` [CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions](https://arxiv.org/abs/2507.06210), **Yuchen Huang**, Zhiyuan Fan, Zhitao He, Sandeep Polisetty, Wenyan Li, Yi R. (May) Fung
 - `ACL 2025 (Main)` [MMBoundary: Advancing MLLM Knowledge Boundary Awareness through Reasoning Step Confidence Calibration](https://arxiv.org/pdf/2505.23224), Zhitao He, Sandeep Polisetty, Zhiyuan Fan, **Yuchen Huang**, Shujin Wu, Yi R. (May) Fung
