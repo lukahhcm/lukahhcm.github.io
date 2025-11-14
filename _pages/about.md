@@ -13,7 +13,7 @@ My research interests generally lie in the area of **AI/NLP**, focusing on build
 
 <h2 id="news">🔥 News</h2>
 
-- 2025.10 🎉 A survey paper has been accepted by SEA @ NeurIPS 2026!
+- 2025.10 🎉 A survey paper has been accepted by SEA @ NeurIPS 2025!
 - 2025.09 💪 Joined **Tongyi Lab, Alibaba** as a research intern!
 - 2025.08 🎉 **MAC-Tuning** has been accepted by EMNLP 2025! See you in Suzhou!
 - 2025.07 🎉 **CultureCLIP** has been accepted by COLM 2025! See you in Montreal!
@@ -24,7 +24,7 @@ My research interests generally lie in the area of **AI/NLP**, focusing on build
 
 <h2 id="publications">📝 Publications</h2>
 
-- `SEA @ NeurIPS 2026` [Scaling Environments for LLM Agents in the Era of Learning from Interaction: A Survey](https://openreview.net/pdf?id=9axZcDTiJm), **Yuchen Huang**, Sijia Li, Minghao Liu, Wei Liu, Zhiyuan Fan, Yi R. (May) Fung
+- `SEA @ NeurIPS 2025` [Scaling Environments for LLM Agents in the Era of Learning from Interaction: A Survey](https://openreview.net/pdf?id=9axZcDTiJm), **Yuchen Huang**, Sijia Li, Minghao Liu, Wei Liu, Zhiyuan Fan, Yi R. (May) Fung
 - `EMNLP 2025` [MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness](https://arxiv.org/abs/2504.21773), Junsheng Huang, Zhitao He, **Yucheng Huang**, Sandeep Polisetty, Qingyun Wang, Yi R. (May) Fung
 - `COLM 2025` [CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions](https://arxiv.org/abs/2507.06210), **Yuchen Huang**, Zhiyuan Fan, Zhitao He, Sandeep Polisetty, Wenyan Li, Yi R. (May) Fung
 - `ACL 2025 (Main)` [MMBoundary: Advancing MLLM Knowledge Boundary Awareness through Reasoning Step Confidence Calibration](https://arxiv.org/pdf/2505.23224), Zhitao He, Sandeep Polisetty, Zhiyuan Fan, **Yuchen Huang**, Shujin Wu, Yi R. (May) Fung
