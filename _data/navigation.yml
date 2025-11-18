@@ -3,44 +3,23 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  # - title: "News"
-  #   url: "/#news"
+  - title: "News"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/#-publications"
 
-  - title: "Education"
-    url: "/#education"
-
-  - title: "Awards"
-    url: "/#awards"
-
-  - title: "Teaching"
-    url: "/#teaching"
-
-  - title: "Internships"
-    url: "/#internships"
-
-  - title: "Miscellaneous"
-    url: "/#miscellaneous"
-
-  # - title: "Publications"
-  #   url: /publications/
-
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
+  # - title: "Honors and Awards"
+  #   url: "/#-honors-and-awards"
+  
   # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  #   url: /files/CV_Shijue Huang.pdf
+
+  # - title: "Educations"
+  #   url: "/#-educations"
+
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
+
+  # - title: "Internships"
+  #   url: "/#-internships"
