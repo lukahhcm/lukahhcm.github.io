@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shijue Huang"
+title                    : "Yuchen Huang"
 description              : "Hong Kong University of Science and Technology"
-repository               : "JoeYing1019/JoeYing1019.github.io"
+repository               : "lukahhcm/lukahhcm.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shijue Huang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : 
-  location         : "Shenzhen, China"
+  name             : "Yuchen Huang"
+  avatar           : "images/profile.jpg" # relative to the `assets` folder
+  bio              : "Stay hungry, stay foolish."
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=C0Xc3dYAAAAJ"
-  email            : "joehsj310@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Fo02aIUAAAAJ"
+  email            : "yhuanggn@connect.ust.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,10 +37,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JoeYing1019"
+  github           : "lukahhcm"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "lukahhcm"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
