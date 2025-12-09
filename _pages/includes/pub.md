@@ -11,7 +11,7 @@
 
 ## LLM Reasoning
 
-- <span class="conference-tag">EMNLP 2025</span> [MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness](https://arxiv.org/abs/2504.21773), Junsheng Huang, Zhitao He, **Yuchen Huang**, Sandeep Polisetty, Qingyun Wang, Yi R. (May) Fung
+- <span class="conference-tag">EMNLP 2025 (Main)</span> [MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness](https://arxiv.org/abs/2504.21773), Junsheng Huang, Zhitao He, **Yuchen Huang**, Sandeep Polisetty, Qingyun Wang, Yi R. (May) Fung
 - <span class="conference-tag">ACL 2025 (Main)</span> [MMBoundary: Advancing MLLM Knowledge Boundary Awareness through Reasoning Step Confidence Calibration](https://arxiv.org/pdf/2505.23224), Zhitao He, Sandeep Polisetty, Zhiyuan Fan, **Yuchen Huang**, Shujin Wu, Yi R. (May) Fung
 
 ## Multi-Modal Exploration
