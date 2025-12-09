@@ -20,5 +20,5 @@
 - <span class="preprint-tag">arXiv 2025</span> [CantoASR: Prosody-Aware ASR-LALM Collaboration for Low-Resource Cantonese](https://arxiv.org/abs/2511.04139), Dazhong Chen, Yi-Cheng Lin, **Yuchen Huang**, Ziwei Gong, Di Jiang, Zeying Xie, Yi R. (May)Fung
 
 ## Agents and Tool Use
-
+- <span class="preprint-tag">arXiv 2025</span> [SIT-Graph: State Integrated Tool Graph for Multi-Turn Agents](https://arxiv.org/abs/2512.07287), Sijia Li, **Yuchen Huang**, Zifan Liu, Zijian Li, Jingjing fu, Lei Song, Jiang Bian, Jun Zhang, Rui Wang
 - <span class="conference-tag">NeurIPS 2025 Workshop</span> [Scaling Environments for LLM Agents in the Era of Learning from Interaction: A Survey](https://arxiv.org/abs/2511.09586), **Yuchen Huang**, Sijia Li, Minghao Liu, Wei Liu, Shijue Huang, Zhiyuan Fan, Hou Pong Chan, Yi R. (May) Fung

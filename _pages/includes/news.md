@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.12* 🎉 Released [SIT-Graph](https://arxiv.org/abs/2512.07287) on arXiv!
 - *2025.11* 🎉 Released [SEA](https://arxiv.org/abs/2511.09586) (accepted by NeurIPS 2025 Workshop) and [CantoASR](https://arxiv.org/abs/2511.04139) on arXiv!
 - *2025.09* 💪 Joined **Tongyi Lab, Alibaba** as a research intern!
 - *2025.08* 🎉 [MAC-Tuning](https://arxiv.org/abs/2504.21773) has been accepted by EMNLP 2025! See you in Suzhou!
